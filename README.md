@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**khadijerahimi/khadijerahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 💫 About Me:
 
 🔭 I'm a undergraduate statistics student and data analyst
@@ -9,8 +5,11 @@
 🌱 I work on statistical modeling, data analysis, and visualization
 
 ---
+
 ### 🌐 Socials:
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadige.rahimi.sadegh@gmail.com)
+
 ---
 
 ### 💻 Tech Stack:
@@ -23,3 +22,4 @@
 [![Minitab](https://img.shields.io/badge/Minitab-%23004B87.svg?style=for-the-badge&logo=minitab&logoColor=white)](https://www.minitab.com/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+
