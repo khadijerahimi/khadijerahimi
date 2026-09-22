@@ -1,7 +1,9 @@
 ### 💫 About Me:
 
 🔭 I'm a undergraduate statistics student and data analyst
+
 🤝 I offer statistical consulting and collaborate on scientific research
+
 🌱 I work on statistical modeling, data analysis, and visualization
 
 ---
